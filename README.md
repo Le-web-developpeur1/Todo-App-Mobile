@@ -35,7 +35,7 @@ Développé par Boubacar Bah, developpeur web fullstack et mobile et formateur e
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/tonprofil/simplon-task-manager.git
+git clone https://github.com/Le-web-developpeur1/Todo-App-Mobile.git
 cd simplon-task-manager
 npm install
 npx react-native run-android
