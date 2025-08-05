@@ -36,7 +36,8 @@ Développé par Boubacar Bah, developpeur web fullstack et mobile et formateur e
 
 ```bash
 git clone https://github.com/Le-web-developpeur1/Todo-App-Mobile.git
-cd simplon-task-manager
+cd Todo-App
+cd Todo-App ``Encore {parcequ'on a un dossier Todo-App dans un dossier Todo-App}
 npm install
 npx react-native run-android
 
